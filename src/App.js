@@ -1,11 +1,11 @@
-import Cards from "./Cards";
+// import Cards from "./Cards";
 
 
 
 function App() {
   return (
     <div>
-      <Cards/>
+      {/* <Cards/> */}
      
     </div>
   );
