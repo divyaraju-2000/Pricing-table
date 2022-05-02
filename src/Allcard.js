@@ -27,7 +27,7 @@ export default function Allcard(){
                   Reports</li>
               </ul>
               <div className="d-grid">
-                <a href="#" className="btn btn-primary text-uppercase">Button</a>
+                <div className="btn btn-primary text-uppercase">Button</div>
               </div>
             </div>
           </div>
@@ -51,7 +51,7 @@ export default function Allcard(){
                   Reports</li>
               </ul>
               <div className="d-grid">
-                <a href="#" className="btn btn-primary text-uppercase">Button</a>
+                <div className="btn btn-primary text-uppercase">Button</div>
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@ export default function Allcard(){
                 <li><span className="fa-li"><i className="fas fa-check"></i></span>Monthly Status Reports</li>
               </ul>
               <div className="d-grid">
-                <a href="#" className="btn btn-primary text-uppercase">Button</a>
+                <div  className="btn btn-primary text-uppercase">Button</div>
               </div>
             </div>
           </div>
